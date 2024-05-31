@@ -5,6 +5,10 @@ import Navbar from "react-bootstrap/Navbar";
 
 import { Link } from "react-router-dom";
 
+import { LuCake } from "react-icons/lu";
+import { BiSolidHome } from "react-icons/bi";
+import { GrContact } from "react-icons/gr";
+
 const Navegacion = () => {
   return (
     <Navbar expand="lg" className="bg-danger">
@@ -13,18 +17,18 @@ const Navegacion = () => {
         <Navbar.Collapse id="basic-navbar-nav">
           <Nav className="me-auto">
             <Link to="/" className="text-white ms-3 text-decoration-none">
-              Home
+              {<BiSolidHome />} Home
             </Link>
             <Link
               to="/contacto"
               className="text-white ms-3 text-decoration-none"
             >
-              Contacto
+              {<GrContact />}Contacto
             </Link>
           </Nav>
         </Navbar.Collapse>
         <Link to="/" className="link-home">
-          <Navbar.Brand href="#">Happy Cake</Navbar.Brand>
+          <Navbar.Brand href="#">{<LuCake />}</Navbar.Brand>
         </Link>
       </Container>
     </Navbar>
