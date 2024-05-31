@@ -1,5 +1,8 @@
 import { Routes, Route } from "react-router-dom";
 import "./App.css";
+
+import "bootstrap/dist/css/bootstrap.min.css";
+
 import Home from "./componentes/Home";
 import Contacto from "./componentes/Contacto";
 import NoFound from "./componentes/NoFound";
