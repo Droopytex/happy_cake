@@ -8,7 +8,7 @@ function Contacto() {
   return (
     <>
       <div className="box mt-4">
-        <LuCake size={45} />
+        <LuCake size={100} />
         <Form.Label htmlFor="basic-url">
           Estamos listos para que atenderte
         </Form.Label>
