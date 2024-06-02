@@ -1,4 +1,4 @@
-![Captura de Pantalla 2024-06-02 a la(s) 15 52 37](https://github.com/Droopytex/happy_cake/assets/151586858/b493548c-37a0-4f22-8fc6-fdf47edfe7fc)# Happy Cake
+# Happy Cake
 ## Desafío para conocer como funciona el React Router.
 Solicitud: Crear una aplicación React y utilizar React Router para ofrecer la navegación de 2 vistas basada en rutas: Home y Contacto.
 ### Home
