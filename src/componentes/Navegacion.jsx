@@ -15,20 +15,27 @@ const Navegacion = () => {
       <Container>
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav">
-          <Nav className="me-auto">
-            <Link to="/" className="text-white ms-3 text-decoration-none">
-              {<BiSolidHome />} Home
+          <Nav className="d-flex me-auto">
+            <Link
+              to="/happy_cake"
+              className="text-white ms-3 text-decoration-none"
+            >
+              <BiSolidHome size={20} /> Home
             </Link>
             <Link
               to="/contacto"
               className="text-white ms-3 text-decoration-none"
             >
-              {<GrContact />}Contacto
+              <GrContact /> Contacto
             </Link>
           </Nav>
         </Navbar.Collapse>
-        <Link to="/" className="link-home">
-          <Navbar.Brand href="#">{<LuCake />}</Navbar.Brand>
+        <Link to="/happy_cake" className="link-home">
+          <Navbar.Brand className="text-white ms-3" href="#">
+            {" "}
+            :: :: HAPPY CAKE :: ::
+            <LuCake size={30} color="white" />{" "}
+          </Navbar.Brand>
         </Link>
       </Container>
     </Navbar>
