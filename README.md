@@ -3,7 +3,8 @@
 
 ![Captura de Pantalla 2024-06-02 a la(s) 00 44 29](https://github.com/Droopytex/happy_cake/assets/151586858/37024214-23fb-4a5a-9d33-04dbe7957559)
 ![Captura de Pantalla 2024-06-02 a la(s) 00 45 02](https://github.com/Droopytex/happy_cake/assets/151586858/9275ea9a-91cd-49d8-a42c-0a28c5dab169)
-![Uploading Captura de Pantalla 2024-06-02 a la(s) 01.02.55.png…]()
+![Captura de Pantalla 2024-06-02 a la(s) 01 02 55](https://github.com/Droopytex/happy_cake/assets/151586858/87c57dad-b082-402c-b738-9187b41985ec)
+
 
  
 
