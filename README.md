@@ -1,16 +1,14 @@
-# Happy Cake
+![Captura de Pantalla 2024-06-02 a la(s) 15 52 37](https://github.com/Droopytex/happy_cake/assets/151586858/b493548c-37a0-4f22-8fc6-fdf47edfe7fc)# Happy Cake
 ## Desafío para conocer como funciona el React Router.
 Solicitud: Crear una aplicación React y utilizar React Router para ofrecer la navegación de 2 vistas basada en rutas: Home y Contacto.
 ### Home
-![Captura de Pantalla 2024-06-02 a la(s) 00 44 29](https://github.com/Droopytex/happy_cake/assets/151586858/37024214-23fb-4a5a-9d33-04dbe7957559)
+![Captura de Pantalla 2024-06-02 a la(s) 15 52 32](https://github.com/Droopytex/happy_cake/assets/151586858/b2a76ab3-1ce2-4e0c-b9ea-e756d606d24d)
+
 ### Contacto
-![Captura de Pantalla 2024-06-02 a la(s) 01 02 55](https://github.com/Droopytex/happy_cake/assets/151586858/87c57dad-b082-402c-b738-9187b41985ec)
+ ![Captura de Pantalla 2024-06-02 a la(s) 15 52 37](https://github.com/Droopytex/happy_cake/assets/151586858/40b4102f-30f9-48c8-a06e-738ea21f6a35)
+
 ### NoFound 
-![Captura de Pantalla 2024-06-02 a la(s) 00 45 02](https://github.com/Droopytex/happy_cake/assets/151586858/9275ea9a-91cd-49d8-a42c-0a28c5dab169)
-
-
-
- 
+![Captura de Pantalla 2024-06-02 a la(s) 15 52 56](https://github.com/Droopytex/happy_cake/assets/151586858/30bea992-8b92-436d-ab3d-5090da5b09cc)
 
 
 ______________//_____________
